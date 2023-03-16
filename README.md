@@ -1,5 +1,5 @@
-# WIM Witch
+# WIM Wizard
 
-This is the repo for WIM Witch. I'll be setting more up here soon.
+WIM Wizard is a GUI-driven tool used to update and customize Windows Image (WIM) files and ISOs.
 
-I'll have installation instructions soon too
+This is a fork of the original WIM Witch created by Donna Ryan (TheNotoriousDRR) which is EoL.
